@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
@@ -23,6 +23,27 @@
             "type": "Novella",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Norwegian/7eba4f76-ce47-45ab-a771-2a510520579f_no_Female.mp4"
+        },
+        {
+            "id": "f29dd837-ad3f-4ddf-9a69-1b85c9c0c3cb",
+            "collectionId": "Norwegian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Norwegian/f29dd837-ad3f-4ddf-9a69-1b85c9c0c3cb_no_Female.mp4"
+        },
+        {
+            "id": "f79689b1-4dc8-403e-a1b6-2bd28b793333",
+            "collectionId": "Norwegian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Norwegian/f79689b1-4dc8-403e-a1b6-2bd28b793333_no_Male.mp4"
+        },
+        {
+            "id": "ef654f41-ee30-4249-ab9a-eee01c289811",
+            "collectionId": "Norwegian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Norwegian/ef654f41-ee30-4249-ab9a-eee01c289811_no_Female.mp4"
         },
         {
             "id": "ff3227aa-d39b-4d94-a6d1-3339dd51a482",
